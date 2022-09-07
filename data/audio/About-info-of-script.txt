@@ -1,1 +1,8 @@
 
+╭──────────────────── menu ────────────────────╮
+│ [01] Crack Single Public                     │
+│ [02] Crack Multi Public                      │
+│ [03] Crack Public followers                  │
+│ [04] Check From File                         │
+│ [00] Logout (Delete Cookies)                 │
+╰──────────────────────────────────────────────╯
