@@ -21,6 +21,8 @@ ____Anime And Memes____
 
 ➤ pkg install git
 
+➤ pkg install play-audio
+
 ➤ pip install requests
 
 ➤ pip install mechanize
