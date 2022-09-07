@@ -3,7 +3,7 @@
 <img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/IMAGEI/FB_IMG_16557430804770182.jpg" width="240" height="240" align="center">
 <center>
 ____Anime And Memes____
-<img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/7Crack/data/7crack_menu.jpg" width="360" height="360" align="center">
+<img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/7Crack/data/7crack_menu.jpg" width="240" height="240" align="center">
 <center>
       FACEBOOK File And Public Crack
 </p>
