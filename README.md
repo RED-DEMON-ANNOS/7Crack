@@ -31,7 +31,7 @@ ____Anime And Memes____
 
 ➤ pip install bs4
 
-➤ rm -rf 7SINS
+➤ rm -rf Crack
 
 ➤ git clone https://github.com/RED-DEMON-ANNOS/7Crack 
 ```
